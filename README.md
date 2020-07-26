@@ -16,6 +16,7 @@ Base on [xadmin](https://github.com/sshwsfc/xadmin/tree/django2), fix bugs in Dj
 2. 修复已知的一些Bug，目前我们已经把m2m_transfer不点击右侧栏无法保存的bug修复了
 3. 图表插件的进一步丰富
 4. 一个大多数人能够轻松阅读的文档
+5. 将xadmin的代码进行优化———原始代码比较历史遗留
 
 Update Log
 ---------
